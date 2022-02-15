@@ -2,7 +2,7 @@
 
 IP & MAC Address
 --
-|NO|TYPE| MAC Add | IP | Target IP | FPGA | Firmware | UI(Body) |  ETC |
+|ID|TYPE| MAC Add | IP | Target IP | FPGA | Firmware | UI(Body) |  ETC |
 |---|---|---|---|---|---|---|---|---|
 |1|SPLUS-M| | 230 | 100 |7CH 100k||SPLUS-M|Portable|
 |2|SPLUS-M| | 230 | 100 |7CH 100k||SPLUS-M|ENV Test|
