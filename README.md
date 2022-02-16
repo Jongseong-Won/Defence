@@ -21,5 +21,5 @@ IP & MAC Address
 * Mac Address : net_interface.c   Line 78
 * Target IP   : net_interface.c   Line 532
 * Base IP     : common.h          Line 100
-* TCP Portt    : common.h          Line 102
+* TCP Port    : common.h          Line 102
 * Check Time  : fpga_intf.c       Line 2028
