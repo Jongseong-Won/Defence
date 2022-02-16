@@ -11,12 +11,12 @@ IP & MAC Address
 |5|SODA-V(3)| 0x85u | 233 | 103 |7CH 100k |MUV_lhs|SPLUS-M| SW Only |
 |6|SPLUS-S| | 234 | 104 |7CH 100k  || SPLUS-M | 6CH |
 
-
+--
 * SODA    : D:\MUV_lhs
 * SPLUS-M : D:\JS-SPLUSM
-
+--
 * Mac Address : net_interface.c   Line 78
 * Target IP   : net_interface.c   Line 532
 * Base IP     : common.h          Line 100
-* TCP PORt    : common.h          Line 102
+* TCP Portt    : common.h          Line 102
 * Check Time  : fpga_intf.c       Line 2028
