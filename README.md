@@ -10,7 +10,7 @@ IP & MAC Address
 |4|SODA-V(2)| 0x87u| 232 | 102 |7CH 100k |MUV_lhs|SODA-V||
 |5|SODA-V(3)| 0x85u | 233 | 103 |7CH 100k |MUV_lhs|SPLUS-M| SW Only |
 |6|SPLUS-S| | 234 | 104 |7CH 100k  || SPLUS-M | 6CH |
-
+|---|---|---|---|---|---|---|---|---|
 --
 * SODA    : D:\MUV_lhs
 * SPLUS-M : D:\JS-SPLUSM
