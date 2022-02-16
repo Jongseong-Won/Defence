@@ -18,8 +18,8 @@ IP & MAC Address
 
 ***
 ### Settings
-* Mac Address : net_interface.c   Line 78
-* Target IP   : net_interface.c   Line 532
-* Base IP     : common.h          Line 100
-* TCP Port    : common.h          Line 102
-* Check Time  : fpga_intf.c       Line 2028
+* Mac Address : net_interface.c   (Line 78)
+* Target IP   : net_interface.c   (Line 532)
+* Base IP     : common.h          (Line 100)
+* TCP Port    : common.h          (Line 102)
+* Check Time  : fpga_intf.c       (Line 2028)
