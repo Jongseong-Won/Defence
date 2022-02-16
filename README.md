@@ -12,12 +12,12 @@ IP & MAC Address
 |6|SPLUS-S| | 234 | 104 |7CH 100k  || SPLUS-M | 6CH |
 
 ---
-
+### Firmware
 * SODA    : D:\MUV_lhs  
 * SPLUS-M : D:\JS-SPLUSM
 
 ***
-
+### Settings
 * Mac Address : net_interface.c   Line 78
 * Target IP   : net_interface.c   Line 532
 * Base IP     : common.h          Line 100
