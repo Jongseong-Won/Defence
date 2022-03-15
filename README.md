@@ -10,7 +10,7 @@ IP & MAC Address
 |4|SODA-V(2)| 0x87u| 232 | 102 |7CH 100k |SODA|SODA-V||
 |5|SODA-V(3)| 0x85u | 233 | 103 |7CH 100k |SPLUS-M|SPLUS-M| SW Only |
 |5|SODA-V(4)|  |  |  |7CH 100k ||SODA-V| x10 |
-|6|SPLUS-S| | 234 | 103 |7CH 100k  || SPLUS-M | 6CH |
+|6|SPLUS-S| | 235 | 105 |7CH 100k  || SPLUS-M | 6CH |
 
 ---
 ### Firmware
